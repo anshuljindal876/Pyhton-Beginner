@@ -7,3 +7,7 @@ Day 1:
 	>Installed python 3.6.4 .
 	>Studied notes upto heading 3: An Informal Introduction to Python.
 	>Practised a few code snippets directly on the interactive console.
+Day 2:
+	>Installed Git for windows.	
+	>Installed Github-Desktop.
+	>Created repository on Github and pushed current folder.

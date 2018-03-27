@@ -1,5 +1,5 @@
 #Code that explains basic working of for loop
-#By- Anshul Jindal
+#By - Anshul Jindal
 
 num = [1,2,3,4,5]
 word = ['cat', 'dog', 'horse']
