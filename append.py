@@ -1,3 +1,6 @@
+#Code to show basic working of append and lists
+#By - Anshul Jindal
+
 myList = ['cat', 1,2,'horse','*',2.33]
 otherList = [3,4,'dog']
 print('INITIAL:\nmyList = ',myList)
